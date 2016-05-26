@@ -1,0 +1,6 @@
+.main-h1 {font-size: 48px;}
+
+p:hover {color: pink;}
+/* pseudoselectors ^ v */
+a:link {}
+a:visited {}
